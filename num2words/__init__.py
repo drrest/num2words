@@ -31,6 +31,7 @@ CONVERTER_CLASSES = {
     'am': lang_AM.Num2Word_AM(),
     'ar': lang_AR.Num2Word_AR(),
     'az': lang_AZ.Num2Word_AZ(),
+    'bg': lang_BG.Num2Word_BG(),
     'by': lang_BY.Num2Word_BY(),
     'ce': lang_CE.Num2Word_CE(),
     'cy': lang_CY.Num2Word_CY(),
