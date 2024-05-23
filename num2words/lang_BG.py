@@ -158,6 +158,7 @@ ORDINAL = {
 class Num2Word_BG(Num2Word_Base):
 
     negword = 'минус'
+    pointword = 'и'
 
     def __init__(self):
         self.is_currency = False
